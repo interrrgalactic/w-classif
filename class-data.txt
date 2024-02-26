@@ -1,0 +1,582 @@
+
+If the symptom is Burping just after eating then select Gut health quiz.
+If the symptom is Heartburn or Gastroesophageal reflux then select Gut health quiz.
+If the symptom is Feeling bloated, feeling full an hour after eating then select Gut health quiz.
+If the symptom is Loss of interest or taste in protein foods then select Gut health quiz.
+If the symptom is Feeling of discomfort, fullness of the stomach after eating then select Gut health quiz.
+If the symptom is I feel better if I don't eat then select Gut health quiz.
+If the symptom is Metal taste in mouth then select Gut health quiz.
+If the symptom is Sour taste in the mouth then select Gut health quiz.
+If the symptom is Bad breath then select Gut health quiz.
+If the symptom is Grey plaque on the tongue then select Gut health quiz.
+If the symptom is White plaque on the tongue then select Gut health quiz.
+If the symptom is White cheesy plaque (plaques from a white cheesy substrate) on the tongue then select Gut health quiz.
+If the symptom is Saturated with a small amount of food then select Gut health quiz.
+If the symptom is Skip meals or eat intermittently due to lack of appetite then select Gut health quiz.
+If the symptom is Stomach pain, burning and/or aching pain 30 min – 1.5 hours after eating then select Gut health quiz.
+If the symptom is Spicy or fatty (fried) food, chocolate, coffee, alcohol cause burning or aching pain in the stomach then select Gut health quiz.
+If the symptom is Shingles pain  then select Gut health quiz.
+If the symptom is Difficulty or pain while swallowing food or liquid then select Gut health quiz.
+If the symptom is Undigested food in the stool (especially the presence of muscle fibers according to the stool test then select Gut health quiz.
+If the symptom is Crohn's disease in the anamnesis then select Gut health quiz.
+If the symptom is Morning vomiting with acidic contents then select Gut health quiz.
+If the symptom is Hungry and nocturnal pains (painful feelings on an empty stomach) then select Gut health quiz.
+If the symptom is Epigastric pain, burning and/or aching pain, which is relieved by food intake, eating cream, milk or taking antacids (for example, Gaviscon, Rennie and others) then select Gut health quiz.
+If the symptom is Bloating 1-2 hours after eating then select Gut health quiz.
+If the symptom is Flatulence, rumbling just after eating then select Gut health quiz.
+If the symptom is Diarrhea just after eating then select Gut health quiz.
+If the symptom is Foul smelling stool then select Gut health quiz.
+If the symptom is NSAIDs intake then select Gut health quiz.
+If the symptom is Food allergies or food intolerances (the body's reaction to the consumption of certain foods, drinks, food additives) then select Gut health quiz.
+If the symptom is Gluten intolerance (gliadin) then select Gut health quiz.
+If the symptom is Lactose intorelance then select Gut health quiz.
+If the symptom is Sinusitis, constant nasal congestion then select Gut health quiz.
+If the symptom is Acne or rosacea then select Gut health quiz.
+If the symptom is Taking antibiotics then select Gut health quiz.
+If the symptom is Mucosal Candidiasis then select Gut health quiz.
+If the symptom is Athlete's foot, inguinal epidermophytia, nail fungus, ringworm then select Gut health quiz.
+If the symptom is Increased sensations of discomfort in the abdomen, bloating and gas formation after the use of sugar, starch, alcohol then select Gut health quiz.
+If the symptom is Sleepiness, languor after consuming carbohydrate foods then select Gut health quiz.
+If the symptom is Dandruff then select Gut health quiz.
+If the symptom is Perianal itch then select Gut health quiz.
+If the symptom is Parasitosis in the anamnesis or now then select Gut health quiz.
+If the symptom is Anal pain, spasms then select Gut health quiz.
+If the symptom is Discomfort, pain, cramps in the lower abdomen then select Gut health quiz.
+If the symptom is Obstructed defecation then select Gut health quiz.
+If the symptom is Defecation less than 1 time a day then select Gut health quiz.
+If the symptom is Angular, flat-shaped feces then select Gut health quiz.
+If the symptom is Cramping abdominal pain with diarrhea then select Gut health quiz.
+If the symptom is Alternating periods of constipation and diarrhea then select Gut health quiz.
+If the symptom is The act of defecation, bringing relief then select Gut health quiz.
+If the symptom is Emotional stress and/or ingestion of raw foods and vegetables causes bloating, pain, cramps, gas accumulation then select Gut health quiz.
+If the symptom is A feeling of overflow or tension in the abdominal area appears 2-4 hours after eating then select Gut health quiz.
+If the symptom is Excessive foul-smelling gases then select Gut health quiz.
+If the symptom is Heartburn then select Gut health quiz.
+If the symptom is Feeling nauseous then select Gut health quiz.
+If the symptom is Throwing up then select Gut health quiz.
+If the symptom is A bloated belly then select Gut health quiz.
+If the symptom is Lots of gas then select Gut health quiz.
+If the symptom is Diarrhea then select Gut health quiz.
+If the symptom is Constipation then select Gut health quiz.
+If the symptom is Feeling full all the time then select Gut health quiz.
+If the symptom is Burping a lot then select Gut health quiz.
+If the symptom is Stomach ache then select Gut health quiz.
+If the symptom is Not feeling hungry then select Gut health quiz.
+If the symptom is Your stomach making noises then select Gut health quiz.
+If the symptom is A burning feeling in your stomach then select Gut health quiz.
+If the symptom is Feeling stuffed quickly when eating then select Gut health quiz.
+If the symptom is Finding blood in your poop then select Gut health quiz.
+If the symptom is Poop looking black or really dark then select Gut health quiz.
+If the symptom is Changes in poop color then select Gut health quiz.
+If the symptom is Mucus in your poop then select Gut health quiz.
+If the symptom is Needing to go to the bathroom a lot then select Gut health quiz.
+If the symptom is Pain around your butt then select Gut health quiz.
+If the symptom is Trouble swallowing then select Gut health quiz.
+If the symptom is Feeling like there's a lump in your throat then select Gut health quiz.
+If the symptom is Coughing for no reason then select Gut health quiz.
+If the symptom is Bad breath then select Gut health quiz.
+If the symptom is Losing weight without trying then select Gut health quiz.
+If the symptom is Burning or pain in your chest then select Gut health quiz.
+If the symptom is Your belly getting bigger because of fluid then select Gut health quiz.
+If the symptom is Sharp or dull pain on the right side under your ribs then select Gut health quiz.
+If the symptom is Pain on the left side under your ribs then select Gut health quiz.
+If the symptom is A bitter or metallic taste in your mouth then select Gut health quiz.
+If the symptom is Feeling too full after meals then select Gut health quiz.
+If the symptom is Dropping weight then select Gut health quiz.
+If the symptom is Can't handle greasy food then select Gut health quiz.
+If the symptom is Stomach hurts more at night then select Gut health quiz.
+If the symptom is Poop habits keep changing (like diarrhea, then constipation) then select Gut health quiz.
+If the symptom is Swollen legs then select Gut health quiz.
+If the symptom is Appetite going up or down then select Gut health quiz.
+If the symptom is Stomach pains that move around then select Gut health quiz.
+If the symptom is Bitter taste in the mouth, especially after eating then select Liver support quiz.
+If the symptom is Feeling of discomfort in the abdominal cavity or nausea during the consumption of fatty or fried food then select Liver support quiz.
+If the symptom is Heaviness and feeling of overcrowding, discomfort, pain in the right hypochondrium then select Liver support quiz.
+If the symptom is Fat in feces (steatorrhea) then select Liver support quiz.
+If the symptom is Light-colored feces (clay-colored feces) then select Liver support quiz.
+If the symptom is Dry flaky skin, especially on the feet (flaky feet) then select Liver support quiz.
+If the symptom is Attacks of cholecystitis  then select Liver support quiz.
+If the symptom is Gallbladder removal then select Liver support quiz.
+If the symptom is Alcohol consumption then select Liver support quiz.
+If the symptom is Hepatitis in the anamnesis then select Liver support quiz.
+If the symptom is Excessive unpleasant sweating/body odor then select Liver support quiz.
+If the symptom is Unexplained itching of the skin then select Liver support quiz.
+If the symptom is Slight appearance of bruises then select Liver support quiz.
+If the symptom is Yellowish tint of the whites of the eyes, jaundice of the skin then select Liver support quiz.
+If the symptom is Best vitamins for liver health then select Liver support quiz.
+If the symptom is Liver detox supplements then select Liver support quiz.
+If the symptom is What vitamins are good for the liver then select Liver support quiz.
+If the symptom is Natural liver support remedies then select Liver support quiz.
+If the symptom is Vitamin supplements for liver then select Liver support quiz.
+If the symptom is Liver protection supplements then select Liver support quiz.
+If the symptom is Supplements to improve liver function then select Liver support quiz.
+If the symptom is Effective liver repair supplements then select Liver support quiz.
+If the symptom is Vitamins for liver disease prevention then select Liver support quiz.
+If the symptom is Nutrients for a healthy liver then select Liver support quiz.
+If the symptom is Minerals for liver function support then select Liver support quiz.
+If the symptom is Antioxidants for liver protection then select Liver support quiz.
+If the symptom is How to naturally support liver health then select Liver support quiz.
+If the symptom is Liver cleansing supplements then select Liver support quiz.
+If the symptom is Aching lower back pain then select KIDNEYS AND BLADDER quiz.
+If the symptom is Bags under the eyes and swollen eyelids in the morning, in the afternoon edema becomes less or disappears completely then select KIDNEYS AND BLADDER quiz.
+If the symptom is Sand or kidney stones now or in the anamnesis then select KIDNEYS AND BLADDER quiz.
+If the symptom is Pain or burning sensation when urinating then select KIDNEYS AND BLADDER quiz.
+If the symptom is Cloudy, dark urine (the color of tea), pink urine (hematuria) then select KIDNEYS AND BLADDER quiz.
+If the symptom is Frequent urination as more than 8 times a day then select KIDNEYS AND BLADDER quiz.
+If the symptom is Infrequent urination as less than 4 times a day then select KIDNEYS AND BLADDER quiz.
+If the symptom is Strong smelling urine then select KIDNEYS AND BLADDER quiz.
+If the symptom is Chronic cystitis (Symptoms from a lower urinary tract infection include pain with urination, frequent urination, and feeling the need to urinate despite having an empty bladder. Symptoms of a kidney infection include fever and flank pain usually in addition to the symptoms of a lower UTI. Rarely the urine may appear bloody.) then select KIDNEYS AND BLADDER quiz.
+If the symptom is Chronic pyelonephritis (Pyelonephritis is inflammation of the kidney, typically due to a bacterial infection. Symptoms most often include fever and flank tenderness. Other symptoms may include nausea, burning with urination, and frequent urination. Complications may include pus around the kidney, sepsis, or kidney failure.) then select KIDNEYS AND BLADDER quiz.
+If the symptom is Glomerulonephritis then select KIDNEYS AND BLADDER quiz.
+If the symptom is Coughing, lifting heavy objects, tension during work/ physical exerсises are accompanied by involuntary urination then select KIDNEYS AND BLADDER quiz.
+If the symptom is Best vitamins for kidney health then select KIDNEYS AND BLADDER quiz.
+If the symptom is Supplements for bladder support then select KIDNEYS AND BLADDER quiz.
+If the symptom is What vitamins are good for kidneys then select KIDNEYS AND BLADDER quiz.
+If the symptom is Natural remedies for kidney support then select KIDNEYS AND BLADDER quiz.
+If the symptom is Medications to improve kidney function then select KIDNEYS AND BLADDER quiz.
+If the symptom is Vitamin complex for bladder health then select KIDNEYS AND BLADDER quiz.
+If the symptom is Minerals for kidney health then select KIDNEYS AND BLADDER quiz.
+If the symptom is Antioxidants for kidney protection then select KIDNEYS AND BLADDER quiz.
+If the symptom is Dietary supplements for urinary tract then select KIDNEYS AND BLADDER quiz.
+If the symptom is How to cleanse kidneys naturally then select KIDNEYS AND BLADDER quiz.
+If the symptom is Vitamins for kidney disease prevention then select KIDNEYS AND BLADDER quiz.
+If the symptom is Best herbs for kidney health then select KIDNEYS AND BLADDER quiz.
+If the symptom is Detox remedies for kidneys then select KIDNEYS AND BLADDER quiz.
+If the symptom is Discomfort, difficulty breathing walking upstairs or doing other physical activity then select Heart quiz.
+If the symptom is Feeling like not getting enough air/shortness of breath/heavy breathing then select Heart quiz.
+If the symptom is The feeling of intercepted breathing in cold air then select Heart quiz.
+If the symptom is The urgent need to open windows in stuffy rooms then select Heart quiz.
+If the symptom is Dull ache or feeling chest tightness and/or irradiation in the left arm then select Heart quiz.
+If the symptom is Swelling in the feet and ankles for no apparent reason (especially in the late afternoon) then select Heart quiz.
+If the symptom is A feeling of very fast, very slow or irregular heartbeat then select Heart quiz.
+If the symptom is Night cough then select Heart quiz.
+If the symptom is Blush or redness of the face for no reason then select Heart quiz.
+If the symptom is You feel bad when you stand (there is a feeling of heaviness and fatigue in the legs) then select Heart quiz.
+If the symptom is Discomfort in the legs or weakness that dissappaers when lifting the legs then select Heart quiz.
+If the symptom is Cold feet or blue hands then select Heart quiz.
+If the symptom is Fingers and toes freeze in cold weather, even in suitable clothes/shoes then select Heart quiz.
+If the symptom is Hypertension then select Heart quiz.
+If the symptom is Coronary heart disease then select Heart quiz.
+If the symptom is Heart attack/stroke in the amnesis then select Heart quiz.
+If the symptom is Best vitamins for heart and vessels then select Heart quiz.
+If the symptom is Supplements for cardiovascular health then select Heart quiz.
+If the symptom is What vitamins are good for the heart then select Heart quiz.
+If the symptom is Natural remedies for heart support then select Heart quiz.
+If the symptom is Vitamin complexes for blood vessels then select Heart quiz.
+If the symptom is Herbal supplements for heart health then select Heart quiz.
+If the symptom is Minerals for strengthening the heart then select Heart quiz.
+If the symptom is Antioxidants for heart health then select Heart quiz.
+If the symptom is Dietary supplements for vascular health then select Heart quiz.
+If the symptom is How to improve heart function naturally then select Heart quiz.
+If the symptom is Vitamins for heart disease prevention then select Heart quiz.
+If the symptom is Frequent runny nose then select Immunity quiz.
+If the symptom is Constant nasal congestion then select Immunity quiz.
+If the symptom is Subhealth condition in the oropharynx in autumn-winter period then select Immunity quiz.
+If the symptom is Frequent colds / flu then select Immunity quiz.
+If the symptom is Flu/cold symptoms last more than 5 days then select Immunity quiz.
+If the symptom is Frequency of various infections (skin infections, sinusitis, otitis, pneumonia, cystitis, urinary tract infections, etc.) then select Immunity quiz.
+If the symptom is Frequency of colds then select Immunity quiz.
+If the symptom is Dermatitis (inflammation of the skin, typically characterized by itchiness, redness and a rash), boils (are expanded are basically pus-filled nodules), carbuncles (a cluster of several boils, which is typically filled with purulent exudate) then select Immunity quiz.
+If the symptom is Herpes, Mononucleosis, Epstein-Barr virus (EBV), shingles, chronic fatigue syndrome (CFS), hepatitis now or in the anamnesis then select Immunity quiz.
+If the symptom is Best vitamins for immune support then select Immunity quiz.
+If the symptom is Supplements to boost immunity then select Immunity quiz.
+If the symptom is Natural remedies for immunity then select Immunity quiz.
+If the symptom is Vitamin complex for immune defense then select Immunity quiz.
+If the symptom is Waking up at night after eating sweets before going to bed then select Weight quiz.
+If the symptom is Craving for sweets then select Weight quiz.
+If the symptom is Increased appetite then select Weight quiz.
+If the symptom is Drowsiness after lunch then select Weight quiz.
+If the symptom is Fatigue that disappears after eating then select Weight quiz.
+If the symptom is Irritability that disappears after eating then select Weight quiz.
+If the symptom is Headache when skipping meals then select Weight quiz.
+If the symptom is Tremor of the hands when skipping meals then select Weight quiz.
+If the symptom is Sudden excessive sweating and/or the skin becomes moist and sticky then select Weight quiz.
+If the symptom is Relatives with diabetes then select Weight quiz.
+If the symptom is Darkening of the skin in the places of natural folds / elbows/ knuckles then select Weight quiz.
+If the symptom is Diabetes during pregnancy in the anamnesis then select Weight quiz.
+If the symptom is Water constant thirst then select Weight quiz.
+If the symptom is Frequent profuse urination then select Weight quiz.
+If the symptom is Itching of the whole body then select Weight quiz.
+If the symptom is Reduced sensitivity of fingers and toes then select Weight quiz.
+If the symptom is Slow wound healing then select Weight quiz.
+If the symptom is Best vitamins for immune support then select Weight quiz.
+If the symptom is Supplements to boost immunity then select Weight quiz.
+If the symptom is Natural remedies for immunity then select Weight quiz.
+If the symptom is Vitamin complex for immune defense then select Weight quiz.
+If the symptom is Diagnosed prostate diseases then select MEN'S HEALTH quiz.
+If the symptom is Difficulty beginning and ending of urination then select MEN'S HEALTH quiz.
+If the symptom is Difficulty in holding urine then select MEN'S HEALTH quiz.
+If the symptom is Weak urine flow then select MEN'S HEALTH quiz.
+If the symptom is Intermittent urine flow when urinating then select MEN'S HEALTH quiz.
+If the symptom is Have to strain to urinate then select MEN'S HEALTH quiz.
+If the symptom is Urine leakage after urination then select MEN'S HEALTH quiz.
+If the symptom is Feeling of incomplete bladder emptying then select MEN'S HEALTH quiz.
+If the symptom is Need to urinate frequently (breaks of less than two hours) then select MEN'S HEALTH quiz.
+If the symptom is Waking up at night to urinate then select MEN'S HEALTH quiz.
+If the symptom is Decreased sex drive then select MEN'S HEALTH quiz.
+If the symptom is Decreased erection then select MEN'S HEALTH quiz.
+If the symptom is Best vitamins for men's health then select MEN'S HEALTH quiz.
+If the symptom is Vitamins to increase testosterone then select MEN'S HEALTH quiz.
+If the symptom is Supplements for male vitality then select MEN'S HEALTH quiz.
+If the symptom is Natural remedies for male libido then select MEN'S HEALTH quiz.
+If the symptom is Vitamin complex for men then select MEN'S HEALTH quiz.
+If the symptom is Minerals for male endurance then select MEN'S HEALTH quiz.
+If the symptom is Antioxidants for male body protection then select MEN'S HEALTH quiz.
+
+If the symptom is Depression during menstruation or during the premenstrual period (premenstrual period) then select WOMEN'S HEALTH. quiz.
+If the symptom is Mood swings, aggression, anger in the middle and at the end of the cycle then select WOMEN'S HEALTH. quiz.
+If the symptom is Craving chocolate (sweets) during premenstrual period then select WOMEN'S HEALTH. quiz.
+If the symptom is Breast swelling/sensitivity during premenstrual period then select WOMEN'S HEALTH. quiz.
+If the symptom is Feeling of puffiness, bloating, swelling during premenstrual period then select WOMEN'S HEALTH. quiz.
+If the symptom is Stable weight gain in premenstrual period and relief with the onset of menstruation then select WOMEN'S HEALTH. quiz.
+If the symptom is Rashes, oily skin before the start of the cycle then select WOMEN'S HEALTH. quiz.
+If the symptom is Increased appetite during premenstrual period then select WOMEN'S HEALTH. quiz.
+If the symptom is Pain / discomfort in the lower back, lower abdomen in the first days of the cycle then select WOMEN'S HEALTH. quiz.
+If the symptom is Heavy menstruation then select WOMEN'S HEALTH. quiz.
+If the symptom is Light menstruation then select WOMEN'S HEALTH. quiz.
+If the symptom is Irregular menstruation (3-6 times a year) then select WOMEN'S HEALTH. quiz.
+If the symptom is Shortening (more than 35 days)/lengthening of the cycle (less than 25 days) разве не наоборот? then select WOMEN'S HEALTH. quiz.
+If the symptom is Menstruation without pregnancy is absent for 6 months or more then select WOMEN'S HEALTH. quiz.
+If the symptom is Bleeding between periods then select WOMEN'S HEALTH. quiz.
+If the symptom is Difficult (strained) urination then select WOMEN'S HEALTH. quiz.
+If the symptom is Vaginal itching or burning with or without intercourse then select WOMEN'S HEALTH. quiz.
+If the symptom is Vaginal discharge then select WOMEN'S HEALTH. quiz.
+If the symptom is Painful intercourse (dyspareunia) then select WOMEN'S HEALTH. quiz.
+If the symptom is Vaginal dryness then select WOMEN'S HEALTH. quiz.
+If the symptom is Fat deposits around the buttocks and thighs - in these areas fatty deposits thicken in the form of so-called lugs or calves - the body shape resembles the shape of a pear then select WOMEN'S HEALTH. quiz.
+If the symptom is Excessive hair growth on the face and body then select WOMEN'S HEALTH. quiz.
+If the symptom is Endometriosis (Pain and infertility are common symptoms, although 20–25% of women are asymptomatic. then select WOMEN'S HEALTH. quiz.
+If the symptom is Uterine fibroids  then select WOMEN'S HEALTH. quiz.
+If the symptom is Cystic fibrosis mastopathy then select WOMEN'S HEALTH. quiz.
+If the symptom is Decreased sex drive then select WOMEN'S HEALTH. quiz.
+If the symptom is Best vitamins for women's health then select WOMEN'S HEALTH. quiz.
+If the symptom is Vitamins for women's beauty and health then select WOMEN'S HEALTH. quiz.
+If the symptom is Supplements for hormonal balance in women then select WOMEN'S HEALTH. quiz.
+If the symptom is Vitamins for female reproductive health then select WOMEN'S HEALTH. quiz.
+If the symptom is Natural remedies for female libido then select WOMEN'S HEALTH. quiz.
+If the symptom is Vitamin complex for women then select WOMEN'S HEALTH. quiz.
+If the symptom is Diagnosed sleep problem then select Sleep quiz.
+If the symptom is Loud snoring/episodes of sleep apnea then select Sleep quiz.
+If the symptom is Feeling well rested in the morning then select Sleep quiz.
+If the symptom is Feeling sleepy in the morning or afternoon then select Sleep quiz.
+If the symptom is Need to lie down to rest during the day then select Sleep quiz.
+If the symptom is Falling asleep within 20 minutes lying in bed then select Sleep quiz.
+If the symptom is Use of sleeping pills then select Sleep quiz.
+If the symptom is Waking up in the middle of the night then select Sleep quiz.
+If the symptom is Difficult to fall asleep after waking up at night then select Sleep quiz.
+If the symptom is Having disturbing dreams at night then select Sleep quiz.
+If the symptom is Going to sleep after 24 hours then select Sleep quiz.
+If the symptom is Frequently disrupted sleep patterns (on weekends, not fixed on weekdays) then select Sleep quiz.
+If the symptom is Sleeping with a partner, small children, animals that disrupt sleep and sometimes wake up then select Sleep quiz.
+If the symptom is Best vitamins for better sleep then select Sleep quiz.
+If the symptom is Vitamins to fight insomnia then select Sleep quiz.
+If the symptom is Supplements for deep sleep then select Sleep quiz.
+If the symptom is Natural remedies for better sleep then select Sleep quiz.
+"If the symptom is Constant feeling of fatigue then select Energy
+Stress and mood quiz."
+"If the symptom is Difficulty waking up in the morning then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased physical endurance then select Energy
+Stress and mood quiz."
+"If the symptom is Worsened concentration then select Energy
+Stress and mood quiz."
+"If the symptom is Quick to tire during mental work then select Energy
+Stress and mood quiz."
+"If the symptom is Difficulties in performing routine tasks then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of apathy then select Energy
+Stress and mood quiz."
+"If the symptom is Lack of motivation then select Energy
+Stress and mood quiz."
+"If the symptom is Sleepiness throughout the day then select Energy
+Stress and mood quiz."
+"If the symptom is Low mood then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of irritability then select Energy
+Stress and mood quiz."
+"If the symptom is Increased sensitivity to stress then select Energy
+Stress and mood quiz."
+"If the symptom is Loss of interest in activities that used to be enjoyable then select Energy
+Stress and mood quiz."
+"If the symptom is Forgetfulness then select Energy
+Stress and mood quiz."
+"If the symptom is Low self-esteem then select Energy
+Stress and mood quiz."
+"If the symptom is Difficulties in making decisions then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of being overwhelmed by even the smallest tasks then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased or increased appetite then select Energy
+Stress and mood quiz."
+"If the symptom is Increased caffeine consumption to stay alert then select Energy
+Stress and mood quiz."
+"If the symptom is Using alcohol or sleep aids to improve sleep then select Energy
+Stress and mood quiz."
+"If the symptom is Muscle weakness then select Energy
+Stress and mood quiz."
+"If the symptom is Muscle pain then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of lethargy in the body then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased libido then select Energy
+Stress and mood quiz."
+"If the symptom is Lack of energy even after rest then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling that rest does not bring recovery then select Energy
+Stress and mood quiz."
+"If the symptom is Indecisiveness then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of isolation or seclusion then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased social activity then select Energy
+Stress and mood quiz."
+"If the symptom is Loss of interest in work or study then select Energy
+Stress and mood quiz."
+"If the symptom is Intolerance to physical exercise then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased ability to recover after physical exertion then select Energy
+Stress and mood quiz."
+"If the symptom is Digestive issues, such as bloating or discomfort then select Energy
+Stress and mood quiz."
+"If the symptom is Increased sweating then select Energy
+Stress and mood quiz."
+"If the symptom is Anxiety and panic attacks then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling that life is passing by then select Energy
+Stress and mood quiz."
+"If the symptom is Pessimistic thoughts about the future then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of guilt or worthlessness then select Energy
+Stress and mood quiz."
+"If the symptom is Difficulty maintaining personal hygiene due to lack of energy then select Energy
+Stress and mood quiz."
+"If the symptom is Postponing or avoiding social meetings then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased creative potential then select Energy
+Stress and mood quiz."
+"If the symptom is Sensation of chronic fatigue even after long rest then select Energy
+Stress and mood quiz."
+"If the symptom is Nocturnal lifestyle (owl) then select Energy
+Stress and mood quiz."
+"If the symptom is Having difficulty falling asleep then select Energy
+Stress and mood quiz."
+"If the symptom is I have difficulty waking up in the morning, morning fatigue then select Energy
+Stress and mood quiz."
+"If the symptom is Usually, you feel better after 18 hours then select Energy
+Stress and mood quiz."
+"If the symptom is Headache, tremor, dizziness after sports then select Energy
+Stress and mood quiz."
+"If the symptom is Excitement or anxiety after drinking coffee then select Energy
+Stress and mood quiz."
+"If the symptom is Dizziness, stars in the eyes when getting up abruptly then select Energy
+Stress and mood quiz."
+"If the symptom is Craving for salty food then select Energy
+Stress and mood quiz."
+"If the symptom is Salting before sampling food then select Energy
+Stress and mood quiz."
+"If the symptom is Achy/sore feeeling throughout the body for several days after intense physical exertion then select Energy
+Stress and mood quiz."
+"If the symptom is Sudden panic attack while resting then select Energy
+Stress and mood quiz."
+"If the symptom is Chronic pain without visible causes then select Energy
+Stress and mood quiz."
+"If the symptom is The need to wear sunglasses then select Energy
+Stress and mood quiz."
+"If the symptom is Dark circles around the eyes then select Energy
+Stress and mood quiz."
+"If the symptom is Slow healing of wounds and cuts then select Energy
+Stress and mood quiz."
+"If the symptom is Chronic fatigue or drowsiness then select Energy
+Stress and mood quiz."
+"If the symptom is Easy fatigue, weakness then select Energy
+Stress and mood quiz."
+"If the symptom is Increased excitability (outbursts of anger, it is difficult to calm down after) then select Energy
+Stress and mood quiz."
+"If the symptom is Propensity to increase blood pressure above 120/80 mmHg then select Energy
+Stress and mood quiz."
+"If the symptom is Weight gain (mainly around the waist) then select Energy
+Stress and mood quiz."
+"If the symptom is Loss of muscle mass/strength (especially in the extremities) then select Energy
+Stress and mood quiz."
+"If the symptom is Puffy moon reddish face then select Energy
+Stress and mood quiz."
+"If the symptom is The problem with weight gain while maintaining a normal or increased appetite then select Energy
+Stress and mood quiz."
+"If the symptom is Increased nervousness, aggression then select Energy
+Stress and mood quiz."
+"If the symptom is Excessive agitation and frequent mood swings, tearfulness then select Energy
+Stress and mood quiz."
+"If the symptom is Internal tremor / trembling hands then select Energy
+Stress and mood quiz."
+"If the symptom is Hot flashes/red face then select Energy
+Stress and mood quiz."
+"If the symptom is Resting high heart rate is above 90 beats per minute then select Energy
+Stress and mood quiz."
+"If the symptom is Poor tolerance of high temperatures, constant feeling of heat then select Energy
+Stress and mood quiz."
+"If the symptom is Sensation/visible enlargement of the neck in volume then select Energy
+Stress and mood quiz."
+"If the symptom is Discomfort when wearing a turtleneck/scarf/tie then select Energy
+Stress and mood quiz."
+"If the symptom is Reduced initiative, inertia, apathy then select Energy
+Stress and mood quiz."
+"If the symptom is Increased drowsiness, mild fatigue then select Energy
+Stress and mood quiz."
+"If the symptom is Sensitivity to cold, violation of blood circulation in the limbs (cold) then select Energy
+Stress and mood quiz."
+"If the symptom is Hair loss/breakage then select Energy
+Stress and mood quiz."
+"If the symptom is Loss of the outside 1/3 of eyebrow hair then select Energy
+Stress and mood quiz."
+"If the symptom is Puffiness of the face, eyelids then select Energy
+Stress and mood quiz."
+"If the symptom is Tendency to edema then select Energy
+Stress and mood quiz."
+"If the symptom is Low pulse as less than 60 beats per minute then select Energy
+Stress and mood quiz."
+"If the symptom is Forgetfulness, impaired concentration then select Energy
+Stress and mood quiz."
+"If the symptom is Hoarseness of voice then select Energy
+Stress and mood quiz."
+"If the symptom is Constant feeling of fatigue then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of anxiety then select Energy
+Stress and mood quiz."
+"If the symptom is Low mood then select Energy
+Stress and mood quiz."
+"If the symptom is Difficulty concentrating then select Energy
+Stress and mood quiz."
+"If the symptom is Loss of interest in usual activities then select Energy
+Stress and mood quiz."
+"If the symptom is Increased alcohol consumption or smoking then select Energy
+Stress and mood quiz."
+"If the symptom is Feelings of guilt or worthlessness then select Energy
+Stress and mood quiz."
+"If the symptom is Memory problems then select Energy
+Stress and mood quiz."
+"If the symptom is Lack of energy then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased libido then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of emptiness then select Energy
+Stress and mood quiz."
+"If the symptom is Avoiding social contacts then select Energy
+Stress and mood quiz."
+"If the symptom is Nervousness then select Energy
+Stress and mood quiz."
+"If the symptom is Tearfulness then select Energy
+Stress and mood quiz."
+"If the symptom is Worry about the future then select Energy
+Stress and mood quiz."
+"If the symptom is Muscle tension then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling unwell then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased productivity then select Energy
+Stress and mood quiz."
+"If the symptom is Quick to tire then select Energy
+Stress and mood quiz."
+"If the symptom is Dwelling on negative thoughts then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling overwhelmed then select Energy
+Stress and mood quiz."
+"If the symptom is Difficulty making decisions then select Energy
+Stress and mood quiz."
+"If the symptom is Self-doubt then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling isolated then select Energy
+Stress and mood quiz."
+"If the symptom is Increased sensitivity to criticism then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling of fear or panic then select Energy
+Stress and mood quiz."
+"If the symptom is Constant worries then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased self-confidence then select Energy
+Stress and mood quiz."
+"If the symptom is Being easily offended then select Energy
+Stress and mood quiz."
+"If the symptom is Tendency to conflict then select Energy
+Stress and mood quiz."
+"If the symptom is Frequent feeling of cold or heat then select Energy
+Stress and mood quiz."
+"If the symptom is Obsessive thoughts then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling that everything is going wrong then select Energy
+Stress and mood quiz."
+"If the symptom is Loss of interest in hobbies then select Energy
+Stress and mood quiz."
+"If the symptom is Desire to cry for no reason then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling unable to relax then select Energy
+Stress and mood quiz."
+"If the symptom is Pessimism then select Energy
+Stress and mood quiz."
+"If the symptom is Weight changes then select Energy
+Stress and mood quiz."
+"If the symptom is Feeling that life has lost its meaning then select Energy
+Stress and mood quiz."
+"If the symptom is Difficulty getting up in the morning then select Energy
+Stress and mood quiz."
+"If the symptom is Decreased life energy then select Energy
+Stress and mood quiz."
+"If the symptom is Relationship difficulties then select Energy
+Stress and mood quiz."
+"If the symptom is No desire to do anything then select Energy
+Stress and mood quiz."
+"If the symptom is Frequent thoughts of death or suicide (in severe cases of stress or depression) then select Energy
+Stress and mood quiz."
+If the symptom is I don't get much sun then select General health/ESSENTIALS quiz.
+If the symptom is I live in a city with few sunny days then select General health/ESSENTIALS quiz.
+If the symptom is I have/had herniated discs then select General health/ESSENTIALS quiz.
+If the symptom is I notice increased joint flexibility then select General health/ESSENTIALS quiz.
+If the symptom is Having restless legs syndrome (RLS) then select General health/ESSENTIALS quiz.
+If the symptom is Cramping and muscle stiffness, feeling of clenched jaws then select General health/ESSENTIALS quiz.
+If the symptom is Twitching of the whole body or limbs when falling asleep then select General health/ESSENTIALS quiz.
+If the symptom is Current or history of anemia then select General health/ESSENTIALS quiz.
+If the symptom is Blue sclera of the eyes then select General health/ESSENTIALS quiz.
+If the symptom is White spots on nails then select General health/ESSENTIALS quiz.
+If the symptom is Slow wound healing/rapid scar formation then select General health/ESSENTIALS quiz.
+If the symptom is Reduced sense of taste and smell then select General health/ESSENTIALS quiz.
+If the symptom is Herpetic skin rash then select General health/ESSENTIALS quiz.
+If the symptom is Eczema or other skin rashes then select General health/ESSENTIALS quiz.
+If the symptom is Diet with restriction/exclusion of fats then select General health/ESSENTIALS quiz.
+If the symptom is The pain is well relieved with aspirin then select General health/ESSENTIALS quiz.
+If the symptom is Dry, itchy, cracking, flaky skin then select General health/ESSENTIALS quiz.
+If the symptom is Rapid muscle fatigue then select General health/ESSENTIALS quiz.
+If the symptom is Vulnerability to insect bites (more often bitten than others) then select General health/ESSENTIALS quiz.
+If the symptom is Brittle nails then select General health/ESSENTIALS quiz.
+If the symptom is Numbness, tingling or itching of the limbs then select General health/ESSENTIALS quiz.
+If the symptom is Cheilosis (cracks of the mouth) then select General health/ESSENTIALS quiz.
+If the symptom is Keratosis pilaris (goose bumps) then select General health/ESSENTIALS quiz.
+If the symptom is Strong light at night hurts the eyes then select General health/ESSENTIALS quiz.
+If the symptom is Nosebleed and/or tendency to bleeding then select General health/ESSENTIALS quiz.
+If the symptom is Bleeding gums (especially when brushing teeth) then select General health/ESSENTIALS quiz.
+If the symptom is Coffee consumption then select General health/ESSENTIALS quiz.
+If the symptom is Smoking then select General health/ESSENTIALS quiz.
+If the symptom is Alcohol consumption  then select General health/ESSENTIALS quiz.
+If the symptom is I eat fast food then select General health/ESSENTIALS quiz.
+If the symptom is Which vitamins are needed for deficiencies then select General health/ESSENTIALS quiz.
+If the symptom is Best supplements for replenishing minerals then select General health/ESSENTIALS quiz.
+If the symptom is Vitamins and minerals for health improvement then select General health/ESSENTIALS quiz.
+If the symptom is How to replenish vitamin deficiencies then select General health/ESSENTIALS quiz.
+If the symptom is Mineral supplements for health then select General health/ESSENTIALS quiz.
+If the symptom is Vitamin deficiency, what to take then select General health/ESSENTIALS quiz.
+If the symptom is Vitamin complex for deficiency replenishment then select General health/ESSENTIALS quiz.
+If the symptom is Vitamin and mineral complex recommendations then select General health/ESSENTIALS quiz.
+If the symptom is Supplements for replenishing micronutrient deficiencies then select General health/ESSENTIALS quiz.
+If the symptom is Selecting vitamins for health then select General health/ESSENTIALS quiz.
+If the symptom is Vitamins for strengthening hair and nails then select Hair, skin, nails quiz.
+If the symptom is Supplements for skin health then select Hair, skin, nails quiz.
+If the symptom is Which vitamins to take for skin beauty then select Hair, skin, nails quiz.
+If the symptom is Vitamin complex for hair growth then select Hair, skin, nails quiz.
+If the symptom is Natural remedies for stronger nails then select Hair, skin, nails quiz.
+If the symptom is Products to improve skin condition then select Hair, skin, nails quiz.
+If the symptom is Vitamins to prevent hair loss then select Hair, skin, nails quiz.
+If the symptom is Minerals for healthy hair and nails then select Hair, skin, nails quiz.
+If the symptom is Vitamins for smooth skin then select Hair, skin, nails quiz.
+If the symptom is Supplements to prevent nail brittleness then select Hair, skin, nails quiz.
+If the symptom is How to restore hair with vitamins then select Hair, skin, nails quiz.
+If the symptom is Best vitamins for glowing skin then select Hair, skin, nails quiz.
+If the symptom is Vitamins for skin hydration then select Hair, skin, nails quiz.
+If the symptom is Mineral supplements for hair beauty then select Hair, skin, nails quiz.
