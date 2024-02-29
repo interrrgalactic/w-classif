@@ -1,4 +1,4 @@
-
+If the symptom is Digestion just after eating then select Gut health quiz.
 If the symptom is Burping just after eating then select Gut health quiz.
 If the symptom is Heartburn or Gastroesophageal reflux then select Gut health quiz.
 If the symptom is Feeling bloated, feeling full an hour after eating then select Gut health quiz.
